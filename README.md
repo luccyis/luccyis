@@ -5,7 +5,7 @@
  <h3 align="left">💾 My Project url</h3>
  <a href="http://3.35.136.131/"> <strong>📍 MJ's megabox</strong> </a> 
  <br>
- <a href=""> <strong>📍 SPACE MARKET</strong> </a> 
+ <a href="http://3.38.214.0:8081/"> <strong>📍 SPACE MARKET</strong> </a> 
  <br>
  <h3 align="left">🛠 Skills</h3>
  Languages & Platforms & Tools<br><br>
